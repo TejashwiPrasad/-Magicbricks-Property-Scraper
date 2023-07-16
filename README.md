@@ -17,7 +17,8 @@ Uses BeautifulSoup to parse the HTML content and extract the relevant property i
 Cleans and organizes the extracted data using Pandas, ensuring consistency and uniformity.
 Stores the extracted data in a pandas DataFrame for further analysis and visualization.
 
-Usage
+Usage:
+
 To use this application, make sure you have the following libraries installed:
 
 requests
